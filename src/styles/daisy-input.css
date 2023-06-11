@@ -1,0 +1,11 @@
+@layer components {
+	[data-theme='kududepay'] .input:not(.input.input-error) {
+		@apply rounded-[0.5rem] border-base-content border-opacity-100 text-black;
+	}
+	[data-theme='kududepay'] .input:focus:not(.input.input-error) {
+		@apply rounded-[0.5rem] border-base-content border-opacity-100 text-black outline-base-content;
+	}
+	[data-theme='kududepay'] .input.input-error {
+		@apply rounded-[0.5rem] text-black;
+	}
+}

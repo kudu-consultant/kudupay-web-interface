@@ -1,0 +1,12 @@
+{
+	"layout": {
+		"metadata": {
+			"title": "KuduPay",
+			"description": "Description"
+		},
+		"header": {}
+	},
+	"pages": {
+		"home": {}
+	}
+}

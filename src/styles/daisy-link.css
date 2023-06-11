@@ -1,0 +1,5 @@
+@layer components {
+	[data-theme='kududepay'] .link {
+		@apply underline-offset-4;
+	}
+}

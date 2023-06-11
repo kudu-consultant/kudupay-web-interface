@@ -1,0 +1,5 @@
+@layer components {
+	[data-theme='kududepay'] .hero .hero-content {
+		@apply p-0;
+	}
+}
